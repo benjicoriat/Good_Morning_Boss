@@ -1,0 +1,11 @@
+python-dotenv
+yfinance
+pandas
+numpy
+scipy
+vaderSentiment
+matplotlib
+fpdf
+reportlab  # Optional for advanced PDF
+scikit-learn
+groq

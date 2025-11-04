@@ -1,0 +1,43 @@
+# Example config
+tickers=SDIV,TMC,PFF,SCM,NVO,KBWD,PNNT,PFLT,DX,TATT,RCAT,GRND
+
+####
+portfolio_SCM_shares=12.95
+portfolio_SCM_buy_price=12
+#
+portfolio_SDIV_shares=101.19
+portfolio_SDIV_buy_price=22.71
+#
+portfolio_NVO_shares=3.69
+portfolio_NVO_buy_price=81.09
+#
+portfolio_KBWD_shares=113.92
+portfolio_KBWD_buy_price=15.16
+#
+portfolio_PFF_shares=30
+portfolio_PFF_buy_price=32.82
+#
+portfolio_PNNT_shares=40.5
+portfolio_PNNT_buy_price=6.67
+#
+portfolio_PFLT_shares= 20.22
+portfolio_PFLT_buy_price=8.83
+#
+portfolio_DX_shares=5.06
+portfolio_DX_buy_price=12.26
+#
+portfolio_TATT_shares=6
+portfolio_TATT_buy_price=42.45
+#
+portfolio_RCAT_shares=54
+portfolio_RCAT_buy_price=11.69
+#
+portfolio_GRND_shares=27.68
+portfolio_GRND_buy_price= 14.45
+#
+portfolio_TMC_shares=150
+portfolio_TMC_buy_price=6.75
+
+weather_city=Montreal,CA
+hist_days=100
+cash_available= 27.73
